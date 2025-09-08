@@ -1,0 +1,4 @@
+timestamp,file_name,prediction,confidence
+2025-09-07 20:19:44,tidak_jenuh1.wav,Tidak Jenuh,0.93
+2025-09-08 13:22:17,VID-20250908-WA0005.mp3,Tidak Jenuh,0.57
+2025-09-08 13:47:38,tidak_jenuh2.wav,Tidak Jenuh,0.93
